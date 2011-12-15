@@ -1,0 +1,9 @@
+Flask==0.8
+Jinja2==2.6
+Werkzeug==0.8.1
+distribute==0.6.24
+enum==0.4.4
+fortune==1.0
+grizzled-python==1.0.2
+gunicorn==0.13.4
+wsgiref==0.1.2
